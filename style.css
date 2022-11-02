@@ -1,0 +1,49 @@
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+ }
+ .form {
+    margin-top: 10px;
+ }
+ .btn {
+    width: 50px;
+    height: 10px;
+    padding: 5px;
+    color: white;
+    margin-bottom: 50px;
+ }
+ a {
+    text-decoration: none;
+ }
+ .create {
+    background-color: blue;
+ }
+ .update {
+    background-color: green;
+ }
+ .delete {
+    background-color: red;
+ }
+ .tambah {
+    background-color: grey;
+ }
+ body{
+    /* background-image:url(./img/blibli.jpg); */
+    background-color: aqua;
+    padding: 100px;
+    text-align: start;
+    font-family:'Quicksand', sans-serif;
+ }
+ 
+ .form{
+    background-color: rgb(193, 236, 0);
+ }
+
+ .registrasi{
+   background-color: rgb(193, 236, 0);
+}
+
+ul.login{
+   background-color: rgb(193, 236, 0);
+}
